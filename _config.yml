@@ -1,0 +1,28 @@
+name: Grok001
+favicon: null
+layout_spectrum: 0.6387463477440178
+typography_spectrum: 0.7563452608883381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6399843385443091
+  lightness: 0.6409096480347216
+  saturation: 0.3378963547293097
+  rhythmicContrast: 0.4540917919948697
+purpose: []
